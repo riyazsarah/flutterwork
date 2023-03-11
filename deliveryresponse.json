@@ -1,0 +1,93 @@
+{
+  "statusCode": 200,
+  "results": [
+    {
+      "customerId": "7347e02f-7580-4344-89ed-e89f70bbf246",
+      "fname": "SAHIL",
+      "lname": "SHAIKH",
+      "primaryMobile": "9028631993",
+      "secondaryMobile": null,
+      "deliveryArea": "Kumar palmgrove",
+      "address": "A6 1105 KUMAR PALM GROVE PARGENAGAR KONDHWA",
+      "seqNo": 1,
+      "milkDemand": [
+        {
+          "title": "Buffalo Milk",
+          "imageURL": null,
+          "orderId": "1676406990383",
+          "milkQty": 2.0,
+          "milkType": "BUF",
+          "status": "SCH",
+          "deliveryDate": "11-3-2023",
+          "packing": null
+        }
+      ]
+    },
+    {
+      "customerId": "35b03fd9-4bca-4cc8-8171-e9a2919bf79f",
+      "fname": "ANFAAL",
+      "lname": "TEJANI",
+      "primaryMobile": "9896275087",
+      "secondaryMobile": null,
+      "deliveryArea": "Parge Nagar",
+      "address": "A6 906 KUMARPALM GROVE NEAR SAI SERVICE KONDHWA",
+      "seqNo": 2,
+      "milkDemand": [
+        {
+          "title": "Farmers Buffalo Milk",
+          "imageURL": null,
+          "orderId": "1678447502370",
+          "milkQty": 3.0,
+          "milkType": "BUF",
+          "status": "SCH",
+          "deliveryDate": "11-3-2023",
+          "packing": null
+        }
+      ]
+    },
+    {
+      "customerId": "e26f8595-10a4-4589-b94c-a25381444b56",
+      "fname": "ILIYAS",
+      "lname": "MUJAWAR",
+      "primaryMobile": "9890747401",
+      "secondaryMobile": null,
+      "deliveryArea": "Parge Nagar",
+      "address": "A6 BUILDING 704 KUMAR PALMGROVE PARGE NAGAR KONDHWA",
+      "seqNo": 3,
+      "milkDemand": [
+        {
+          "title": "Buffalo Milk",
+          "imageURL": null,
+          "orderId": "1673728244265",
+          "milkQty": 1.0,
+          "milkType": "BUF",
+          "status": "SCH",
+          "deliveryDate": "11-3-2023",
+          "packing": null
+        }
+      ]
+    },
+    {
+      "customerId": "c989f72f-e404-4205-ac50-89b20693c548",
+      "fname": "FATEMA",
+      "lname": "RAMPURAWALA",
+      "primaryMobile": "9867830854",
+      "secondaryMobile": null,
+      "deliveryArea": "KUMAR PAMGROVE",
+      "address": "A5 1002 KUMAR PALMGROVE PARGENAGAR KONDHWA",
+      "seqNo": 6,
+      "milkDemand": [
+        {
+          "title": "Cow Milk",
+          "imageURL": null,
+          "orderId": "1676406739294",
+          "milkQty": 1.5,
+          "milkType": "COW",
+          "status": "SCH",
+          "deliveryDate": "11-3-2023",
+          "packing": null
+        }
+      ]
+    }
+  ]
+}
